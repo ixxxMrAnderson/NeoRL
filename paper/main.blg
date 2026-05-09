@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: icml2022.bst
+Database file #1: example_paper.bib
+Warning--I didn't find a database entry for "langley00"
+You've used 8 entries,
+            2773 wiz_defined-function locations,
+            638 strings with 6749 characters,
+and the built_in function-call counts, 5733 in all, are:
+= -- 458
+> -- 554
+< -- 2
++ -- 185
+- -- 177
+* -- 533
+:= -- 905
+add.period$ -- 23
+call.type$ -- 8
+change.case$ -- 82
+chr.to.int$ -- 8
+cite$ -- 16
+duplicate$ -- 178
+empty$ -- 327
+format.name$ -- 185
+if$ -- 1164
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 5
+newline$ -- 45
+num.names$ -- 32
+pop$ -- 178
+preamble$ -- 1
+purify$ -- 74
+quote$ -- 0
+skip$ -- 184
+stack$ -- 0
+substring$ -- 150
+swap$ -- 30
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 0
+while$ -- 34
+width$ -- 0
+write$ -- 103
+(There was 1 warning)
